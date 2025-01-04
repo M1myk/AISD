@@ -1,0 +1,16 @@
+D:\Programming\C#\cz\bubble_sort\bubble_sort\bin\Debug\net8.0-windows\bubble_sort.exe
+D:\Programming\C#\cz\bubble_sort\bubble_sort\bin\Debug\net8.0-windows\bubble_sort.deps.json
+D:\Programming\C#\cz\bubble_sort\bubble_sort\bin\Debug\net8.0-windows\bubble_sort.runtimeconfig.json
+D:\Programming\C#\cz\bubble_sort\bubble_sort\bin\Debug\net8.0-windows\bubble_sort.dll
+D:\Programming\C#\cz\bubble_sort\bubble_sort\bin\Debug\net8.0-windows\bubble_sort.pdb
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.Form1.resources
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.csproj.GenerateResource.cache
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.AssemblyInfoInputs.cache
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.AssemblyInfo.cs
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.dll
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\refint\bubble_sort.dll
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.pdb
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\bubble_sort.genruntimeconfig.cache
+D:\Programming\C#\cz\bubble_sort\bubble_sort\obj\Debug\net8.0-windows\ref\bubble_sort.dll
