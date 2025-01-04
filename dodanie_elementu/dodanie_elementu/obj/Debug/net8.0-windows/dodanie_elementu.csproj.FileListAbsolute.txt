@@ -1,0 +1,16 @@
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\bin\Debug\net8.0-windows\dodanie_elementu.exe
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\bin\Debug\net8.0-windows\dodanie_elementu.deps.json
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\bin\Debug\net8.0-windows\dodanie_elementu.runtimeconfig.json
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\bin\Debug\net8.0-windows\dodanie_elementu.dll
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\bin\Debug\net8.0-windows\dodanie_elementu.pdb
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.Form1.resources
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.csproj.GenerateResource.cache
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.AssemblyInfoInputs.cache
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.AssemblyInfo.cs
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.dll
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\refint\dodanie_elementu.dll
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.pdb
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\dodanie_elementu.genruntimeconfig.cache
+D:\Programming\C#\cz\dodanie_elementu\dodanie_elementu\obj\Debug\net8.0-windows\ref\dodanie_elementu.dll
