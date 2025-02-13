@@ -1,0 +1,16 @@
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\bin\Debug\net8.0-windows\najduzszy_ciag.exe
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\bin\Debug\net8.0-windows\najduzszy_ciag.deps.json
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\bin\Debug\net8.0-windows\najduzszy_ciag.runtimeconfig.json
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\bin\Debug\net8.0-windows\najduzszy_ciag.dll
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\bin\Debug\net8.0-windows\najduzszy_ciag.pdb
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.Form1.resources
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.csproj.GenerateResource.cache
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.AssemblyInfoInputs.cache
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.AssemblyInfo.cs
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.dll
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\refint\najduzszy_ciag.dll
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.pdb
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\najduzszy_ciag.genruntimeconfig.cache
+D:\Programming\C#\cz\najduzszy_ciag\najduzszy_ciag\obj\Debug\net8.0-windows\ref\najduzszy_ciag.dll
